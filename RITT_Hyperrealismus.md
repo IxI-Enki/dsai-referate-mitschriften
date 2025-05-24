@@ -5,8 +5,9 @@
 ## Persönliche Gedanken
 Die Entwicklung des AI-Hyperrealismus ist sowohl faszinierend als auch beunruhigend. Einerseits eröffnet diese Technologie unglaubliche Möglichkeiten in Bereichen wie Kunst, Unterhaltung und sogar Medizin. Andererseits wirft sie wichtige ethische Fragen auf, insbesondere in Bezug auf Identität, Privatsphäre und die Manipulation von Informationen. Es ist entscheidend, dass wir als Gesellschaft einen verantwortungsvollen Umgang mit dieser Technologie finden und sicherstellen, dass sie zum Wohle aller eingesetzt wird.
 
-Ein Beispiel für wirklich gut generierte Gesichter die ich gerne anführen würde ist die Webseite [This Person does not exist](https://this-person-does-not-exist.com/en).
+Ein **Beispiel** für wirklich gut generierte Gesichter die ich gerne anführen würde ist die Webseite [This Person does not exist](https://this-person-does-not-exist.com/en).
 
+<img src="img/does-not-exist.png" width=30%>
 
 ## Fazit
 Die rasante Entwicklung der KI-Technologie, insbesondere im Bereich des AI-Hyperrealismus, stellt uns vor neue Herausforderungen und Chancen. Während KI-generierte Gesichter immer schwerer von echten zu unterscheiden sind, müssen wir uns der potenziellen Risiken bewusst sein und gleichzeitig die Vorteile nutzen. Bildung und Medienkompetenz sind entscheidend, um diese Technologie verantwortungsvoll einzusetzen und ihre Auswirkungen auf die Gesellschaft zu steuern.
