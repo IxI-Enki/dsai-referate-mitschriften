@@ -14,6 +14,6 @@
 
 
 
-###### <p align="center"> Autor: Jaa Ritt </p>
+###### <p align="center"> Autor: Jan Ritt </p>
 
 </div>
