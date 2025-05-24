@@ -1,10 +1,19 @@
+###### <p align="center"> Mitschrift von Jan Ritt </p>
+
 # AI-Hyperrealismus: KI-generierte Gesichter
 
 ## Persönliche Gedanken
 Die Entwicklung des AI-Hyperrealismus ist sowohl faszinierend als auch beunruhigend. Einerseits eröffnet diese Technologie unglaubliche Möglichkeiten in Bereichen wie Kunst, Unterhaltung und sogar Medizin. Andererseits wirft sie wichtige ethische Fragen auf, insbesondere in Bezug auf Identität, Privatsphäre und die Manipulation von Informationen. Es ist entscheidend, dass wir als Gesellschaft einen verantwortungsvollen Umgang mit dieser Technologie finden und sicherstellen, dass sie zum Wohle aller eingesetzt wird.
 
+Ein Beispiel für wirklich gut generierte Gesichter die ich gerne anführen würde ist die Webseite [This Person does not exist](https://this-person-does-not-exist.com/en).
+
+
 ## Fazit
 Die rasante Entwicklung der KI-Technologie, insbesondere im Bereich des AI-Hyperrealismus, stellt uns vor neue Herausforderungen und Chancen. Während KI-generierte Gesichter immer schwerer von echten zu unterscheiden sind, müssen wir uns der potenziellen Risiken bewusst sein und gleichzeitig die Vorteile nutzen. Bildung und Medienkompetenz sind entscheidend, um diese Technologie verantwortungsvoll einzusetzen und ihre Auswirkungen auf die Gesellschaft zu steuern.
+
+---
+
+##### <p align="center"> Zusammenfassung des Referates von Sarah Rio </p>
 
 ## Einführung
 AI-Hyperrealismus beschreibt das Phänomen, dass von KI erzeugte Gesichter oft menschlicher wirken als echte Gesichter. Studien aus den Jahren 2022 und 2023 zeigen, dass Menschen Schwierigkeiten haben, echte Gesichter von KI-generierten zu unterscheiden, wobei letztere sogar häufiger als menschlich eingestuft werden. Fortschritte in Technologien wie Generative Adversarial Networks (GANs) und Deep Learning haben diese Entwicklung vorangetrieben.
